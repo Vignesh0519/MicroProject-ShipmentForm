@@ -7,7 +7,7 @@ This is a web-based shipment management form that allows users to create, view, 
 To run the shipment management form locally on your computer, follow these steps:
 
 Clone the repository to your local machine using Git
-git clone: 
+git clone: https://github.com/Vignesh0519/MicroProject-ShipmentForm.git
 
 ## Contributing
 If you would like to contribute to the development of the shipment management form, please follow these steps:
